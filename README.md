@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Dirk van Meerveld.
-- 👀 I'm a former retail manager turned developer living in South Korea.
-- 🌱 I mainly work with Python, Django, React and Javascript, but am always exciting to learn more technologies.
+- 👀 I'm a Dutch developer living in South Korea.
+- 🌱 I work with Python, Django, React, Javascript, ChatGPT, etc, and am always exciting to learn more!
 - 💞️ I love to learn and grow continuously and try new things.
 - 📫 Feel free to contact me! My main languages are English and Dutch, but I'm also quite proficient at Korean.
 
